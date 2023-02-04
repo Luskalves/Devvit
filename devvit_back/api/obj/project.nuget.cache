@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZuVKjZS474OgmskCRjq5wJ3UcCm/6HJazn23mxxu0Kcux+21fOJSW1epgpWbHn7vUVggBDZA9x1HJb4Wa4TTFw==",
+  "success": true,
+  "projectFilePath": "/home/luska/Documentos/linkedin/crud_api/devvit_back/api/api.csproj",
+  "expectedPackageFiles": [
+    "/home/luska/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/luska/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/luska/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/luska/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/luska/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/luska/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
